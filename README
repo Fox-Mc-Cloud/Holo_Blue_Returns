@@ -1,51 +1,9 @@
-******************************************************************
-************************** GREAT FREEDOM  ************************
-******************************************************************
+Holo Blue Returns
 
-CM-11.0 NEW THEME ENGINE THEME!
+A Theme based on the CM11 Theme Engine that brings back the Holo Blue
+which was removed by Google in KitKat aka Android 4.4
 
-This is my contribution to celebrate the new theme engine.
 
-I have chosen to have this theme as an open source project, the 
-source code can be used as a template, source code is available here
 
-https://github.com/elelinux/GreatFreedom
-
-To build this theme use eclipse or android-studio
-
-GreatFreedom is a theme that is stylishly designed with solid colors, 
-I tried to keep it as close to stock CM as possible apart from the icons.
-
-What's Themed/Included
-* Framework
-* Systemui
-* Settings
-* Dialer
-* Mms Widget
-* Email Widget
-* Gmail Widget
-* Facebook Widget
-* LockClock
-* ApexLauncher
-* Power Control Widget
-
-* Custom ringtones/alarms/notifications
-* GreatFreedom wallpaper
-* GreatFreedom iconpack
-* GreatFreedom fonts
-
-Link to Play Store
-
-https://play.google.com/store/apps/details?id=org.cyanogenmod.great.freedom
-
-Made by Esa Laukkanen <ele.linux@gmail.com>
-
-##TODO LIST
-
-* Add more icons
-* Feel free to request for specific icons
-
-*MISC
-
-Widget Border Blue Color
-#55acee
+Theme was created with the great Template from elelinux.
+Get it here: https://github.com/elelinux/GreatFreedom
